@@ -1,0 +1,26 @@
+<package>
+	<id>cydia</id>
+	<name>cydia installer</name>
+	<version>1.1.32</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.0</miniOS>
+			<maxiOS>13</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>ws.hbang.common</package>
+	</dependencies>
+	<shortDescription>an important tool</shortDescription>
+	<descriptionlist>
+		<description>an important tool</description>
+		<description>Supports iOS 9.0 - 13</description>
+	</descriptionlist>
+	<screenshots>tw3to.png</screenshots>
+	<changelog>
+		<change>Old version required</change>
+	</changelog>
+	<links></links>
+</package>

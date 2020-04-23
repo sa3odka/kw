@@ -1,0 +1,19 @@
+Package: com.sa3odka.snapbreak
+Version: 1.7.1k
+Architecture: iphoneos-arm
+Maintainer: Sa3odka
+Depends: firmware (>= 10.0), mobilesubstrate, sed
+Conflicts: com.cokepokes.snapdecent, com.cokepokes.libphantom, com.cokepokes.spectre, tv.othman.scothman, tv.othman.scothman.ios11, com.s0me1ne.betaatweakdisabler, fr.s0me1ne.betasnapbreak, com.s0me1ne.atweakdisabler, fr.s0me1ne.snapbreak
+Filename: ./debs/com.sa3odka.snapbreak_1.7.1k_iphoneos-arm.deb
+Size: 6465132
+MD5sum: a3fd73474e9af5a7d0795f5b15ba8fbf
+SHA1: 0bb8a9771c69affc3f8eecb49f0fdba5943688f8
+SHA256: 84cd983c6d120ee3b775b96d48edf9a682c22731770aef1ddbbabf1d1f1259ec
+Section: Tweaks
+Author: Sa3odka
+Icon: https://plus.3z43.com/wp-content/uploads/2020/02/admin-ajax.php_-1.png
+Name: SnapBreak النسخه المكركه
+Priority: optional
+SileoDepiction: https://myclassic.net/sileo.php?pid=106
+Sponsor: Sa3odka
+

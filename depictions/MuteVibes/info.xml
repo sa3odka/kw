@@ -1,0 +1,26 @@
+<package>
+	<id>com.yourepo.egyptiancydia.meroo</id>
+	<name>MuteVibes</name>
+	<version>2.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.2</miniOS>
+			<maxiOS>12.4.2</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>ws.hbang.common</package>
+	</dependencies>
+	<shortDescription>MuteVibes</shortDescription>
+	<descriptionlist>
+		<description>MuteVibes</description>
+		<description>Supports iOS 12.2 - 12.4.2</description>
+	</descriptionlist>
+	<screenshots>tw3to.png</screenshots>
+	<changelog>
+		<change>Update MuteVibes</change>
+	</changelog>
+	<links></links>
+</package>
