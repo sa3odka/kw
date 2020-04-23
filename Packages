@@ -1,14 +1,181 @@
-Package: com.sa3odka.snapbreak
-Version: 1.7.1k
+Package: com.aditkamath.flame
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: Sa3odka
+Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader, cydia (>= 1.1.19), org.thebigboss.libcolorpicker
+Conflicts: com.aditkamath.cydiatimeout, com.aditkamath.exterminator, net.kister.apttimeout
+Filename: ./debs/com.aditkamath.flame_1.5_iphoneos-arm.deb
+Size: 84574
+MD5sum: 16560a26296da935b6c9ee54b069f2bf
+SHA1: a7c44c1f436797db5f68f54f05cfd365f1be46d3
+SHA256: c08278faa0f166e92c1745170760103e1fa0ec90887eb3b9b8f27588a5c2bbbd
+Section: Tweaks
+Description: نسخ سورسات نسخ ادواتك فيها مميزات كثير
+Author: Sa3odka
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=flameDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=flameDp
+Icon: file:///Library/PreferenceBundles/Flame.bundle/Flame@2x.png
+Installed-Size: 367
+Name: Flame
+Priority: optional
+Sponsor: Sa3odka
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10
+dev: aditkamath
+
+Package: com.github.tw3to.tw3ha
+Version: 7.0
+Architecture: iphoneos-arm
+Maintainer: Sa3odka
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/com.github.tw3to.tw3ha_7.0_iphoneos-arm.deb
+Size: 1104458
+MD5sum: 2acb45dba60c6b55b9589335ac9b3214
+SHA1: 5cf91844ebb1aef6a1f144ec9577b8524121906e
+SHA256: e705c89df9e6f2646e18e295feea3e742a843895795392e3ac6a8c5a5767d63e
+Section: Tweaks
+Description: اداة فيها الكثير من المميزات حذف اعلانات حذف اشعار الشحن تكريك بعض البرامج استمتع
+Author: Sa3odka
+Installed-Size: 3904
+Name: Tw3ha
+
+Package: com.pulandres.downloadbar
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: Sa3odka
+Depends: mobilesubstrate
+Filename: ./debs/com.pulandres.downloadbar_1.0.deb
+Size: 12686
+MD5sum: 265d5716518cbd66627fd53f9062a534
+SHA1: f831de6751a9fa03c201204c87b8ce6705f395ec
+SHA256: f7aa7b3015280e1b994cb7353dc441ff0ebb8281a2ee1d5b3bcb053ad03687ed
+Section: Tweaks
+Description: لما تحمل اي برنامج يطلع لك نسبة التحميل وعداد على البرنامج
+Author: Sa3odka
+Depiction: https://repo.pulandres.me/index.php?pid=689
+Name: DownloadBar
+SileoDepiction: https://repo.pulandres.me/sileo.php?pid=689
+
+Package: com.smokin1337.blurification
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: Sa3odka
+Depends: mobilesubstrate
+Filename: ./debs/com.smokin1337.blurification_1.0.3_iphoneos-arm.deb
+Size: 527674
+MD5sum: 7feec2577920a9a7273f6cec1fcd9183
+SHA1: c6935fc10063a08d8ad42fea27aa40caed737c31
+SHA256: 033852748f9d54f0fd9002f6cb3f23c4bb48c475548bb579c6a517e188a3f8aa
+Section: Tweaks
+Description: لما تفعل الميزه من الكنترول اي اشعار يجيك راح يكون مشوش حق الملاقيف
+Author: Sa3odka
+Depiction: https://idevicehacked.com/depictions/?p=com.smokin1337.blurification
+Icon: https://idevicehacked.com/depictions/com.smokin1337.blurification/icon.png
+Installed-Size: 1548
+Name: طمس الاشعارات
+SileoDepiction: https://idevicehacked.com/depictions/com.smokin1337.blurification/Blurification
+
+Package: com.twickd.ethan-whited.mutevibes
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: Sa3odka
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/com.twickd.ethan-whited.mutevibes_2.0_iphoneos-arm.deb
+Size: 158744
+MD5sum: d45d09bacad2ce7c82e9e87345a48e5a
+SHA1: 6a21c7d485977544f08630d60ceb58cf1ee3c62d
+SHA256: efe553267aeb0e2638a9b2f5266f5e6d85d8950c53d60a5ab9a0e7d97d0f80f2
+Section: Tweaks
+Description: Change the Mute Switch vibrations!
+Author: Sa3odka
+Name: MuteVibes
+
+Package: com.yourepo.egyptiancydia.meroo
+Version: 1.0-3
+Architecture: iphoneos-arm
+Maintainer: Sa3odka
+Conflicts: No
+Filename: ./debs/com.yourepo.egyptiancydia.meroo_1.0-3_iphoneos-arm.deb
+Size: 25561118
+MD5sum: d9de2b08aa0bd163247bc312db416516
+SHA1: 12520b4fe4c55cb60d69762a1adf5e7dd6b7bac7
+SHA256: fc71643533cfa9f57ed7b73ce6cb06988795fc171a40ed0b0dc25d49192de372
+Section: Themes
+Description: ثيم يدعم الكثير من الايقونات
+Author: Sa3odka
+Name: Meroo
+
+Package: cydia
+Version: 1.1.32
+Architecture: iphoneos-arm
+Maintainer: Sa3odka
+Depends: cydia-lproj (>= 1.1.10), darwintools, debianutils, dpkg (>= 1.19.1), org.thebigboss.repo.icons, sed, shell-cmds, system-cmds, uikittools (>= 1.1.14), xz
+Conflicts: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, ispazio.net, modmyifone, ste, yellowsn0w.com, zodttd
+Replaces: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, ispazio.net, modmyifone, saurik, ste, yellowsn0w.com, zodttd
+Filename: ./debs/cydia_1.1.32_iphoneos-arm.deb
+Size: 1509578
+MD5sum: 055e7a8b3b219ca7504ef3eb307ff724
+SHA1: 035150a4ab65626eca02d4bf848a9185c72823c1
+SHA256: dfb4be6b4b4edfa9cd7738299eb3956f74eb5b7fa30183c21b39bcf78d693f03
+Section: Packaging
+Description: graphical iPhone front-end for APT
+Author: Sa3odka
+Depiction: http://cydia.saurik.com/info/cydia/
+Icon: file:///Applications/Cydia.app/Icon-60.png
+Installed-Size: 6472
+Name: Cydia Installer
+Pre-Depends: debianutils, dpkg (>= 1.16.1), firmware (>=5.0)
+Priority: required
+Provides: bigbossbetarepo, cydia-sources
+Tag: purpose::uikit, cydia::essential, role::enduser
+
+Package: net.myclassic.icleanerpro
+Version: 8.8.0
+Architecture: iphoneos-arm
+Maintainer: xRepo <support@xRepo.co>
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: ./debs/net.myclassic.icleanerpro_7.8.deb
+Size: 3728560
+MD5sum: 0ac2bd99b825553b09879603ab896e09
+SHA1: 813763b9811312f2c5e1d57c95c698bc4f07ad75
+SHA256: 4307dcab9541aeeefdb7210f7777873090c5344370662174c52aed410b3e2cdb
+Section: Utilities
+Author: Sa3odka
+Icon: file:///Applications/Cydia.app/Sections/tienich.png
+Name: iCleaner Pro 
+SileoDepiction: https://myclassic.net/sileo.php?pid=199
+Sponsor: Sa3odka
+
+Package: net.myclassic.sapnclassic
+Version: 1.8.1
+Architecture: iphoneos-arm
+Maintainer: Sa3odka
+Depends: firmware (>= 10.0), mobilesubstrate, sed
+Conflicts: com.cokepokes.snapdecent, com.cokepokes.libphantom, com.cokepokes.spectre, tv.othman.scothman, tv.othman.scothman.ios11, com.pantsthief.snapchatnoclickbait, com.timecompiler.snapchatlog, com.nathaningraham.snapchatlowpowermodeenabler, com.expetelek.keepsnapchatsignedin, com.chloeeisoaky.luminous, com.neinzedd9.scfiltermover, net.ibrahim.scstorytimer, com.ithegentle.snapcheck, com.bengerard.snapselect, com.yungraj.streaknotify, com.n00neimp0rtant.picarchiver, brexit.chloee.snapcolor, com.cokepokes.PhantomFak
+Filename: ./debs/net.myclassic.sapnclassic_1.7.deb
+Size: 5079460
+MD5sum: e54e8933bcc692d9268ae7edc1d60aa0
+SHA1: 517bfbf46ac5998adac477465fbb627adc7dde4b
+SHA256: 312f8ffc6fc9f651279d32e3757073feb69bbb703d3c4d722c98791e706b165e
+Section: Tweaks
+Author: Sa3odka
+Name: SnapBreak الاصليه كامله
+Priority: optional
+SileoDepiction: https://myclassic.net/sileo.php?pid=438
+Sponsor: Sa3odka
+
+Package: net.myclassic.snapbreak
+Version: 1.8.1
 Architecture: iphoneos-arm
 Maintainer: Sa3odka
 Depends: firmware (>= 10.0), mobilesubstrate, sed
 Conflicts: com.cokepokes.snapdecent, com.cokepokes.libphantom, com.cokepokes.spectre, tv.othman.scothman, tv.othman.scothman.ios11, com.s0me1ne.betaatweakdisabler, fr.s0me1ne.betasnapbreak, com.s0me1ne.atweakdisabler, fr.s0me1ne.snapbreak
-Filename: ./debs/com.sa3odka.snapbreak_1.7.1k_iphoneos-arm.deb
-Size: 6465132
-MD5sum: a3fd73474e9af5a7d0795f5b15ba8fbf
-SHA1: 0bb8a9771c69affc3f8eecb49f0fdba5943688f8
-SHA256: 84cd983c6d120ee3b775b96d48edf9a682c22731770aef1ddbbabf1d1f1259ec
+Filename: ./debs/net.myclassic.snapbreak_1.7.deb
+Size: 6465126
+MD5sum: a95cad245c721f2fea2ba2d8eaea626b
+SHA1: 9e3f002db30edf698e6ff16d655d141c220a01e2
+SHA256: 35ca799af130c4995d95d00db679630821d12977c9126fbee57fc40de66d9406
 Section: Tweaks
 Author: Sa3odka
 Icon: https://plus.3z43.com/wp-content/uploads/2020/02/admin-ajax.php_-1.png
@@ -16,4 +183,24 @@ Name: SnapBreak النسخه المكركه
 Priority: optional
 SileoDepiction: https://myclassic.net/sileo.php?pid=106
 Sponsor: Sa3odka
+
+Package: ru.rejail.audiorecorderxs
+Version: 3.5-35
+Architecture: iphoneos-arm
+Maintainer: Sa3odka
+Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions, firmware(>=12.0), ru.rejail.limneosos
+Conflicts: net.limneos.callrecorder, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Replaces: net.limneos.audiorecorder,net.limneos.audiorecorderx
+Filename: ./debs/ru.rejail.audiorecorderxs_3.5-35_iphoneos-arm.deb
+Size: 4826770
+MD5sum: 3d69e38c5501f6e0190a5505766113fb
+SHA1: 620f1985f5492bc0aeda5aa0504637172f832405
+SHA256: 628f7f90605efac2bda9c7dcb07b509ad3baa4e0b0857a8983868241a1291e1c
+Section: Tweaks
+Description: تسجيل مكالمات مجاني ومفعل
+Author: Sa3odka
+Depiction: https://rejail.ru/depiction.php?file=audiorecorderxs
+Installed-Size: 21550
+Name: AudioRecorder XS (iOS 12/13)
+SileoDepiction: https://rejail.ru/sileo/depiction.php?file=audiorecorderxs
 

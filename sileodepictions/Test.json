@@ -14,7 +14,7 @@
         },
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "SnapBreak Pro Tweak for Sa3odka"
+					"markdown": "DESCRIPTION"
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -25,38 +25,42 @@
 				},
 				{
 					"title": "Version",
-					"text": "1.8.1",
+					"text": "VERSION",
 					"class": "DepictionTableTextView"
 				},
-
+				{
+					"title": "Last Updated",
+					"text": "LAST_UPDATED",
+					"class": "DepictionTableTextView"
+				},
 				{
 					"title": "License",
-					"text": "Free",
+					"text": "LICENSE",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Compatibility",
-					"text": "iOS 9.0 - 13",
+					"text": "COMPATIBILTY",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Developer",
-					"text": "Sa3odka",
+					"text": "DEVELOPER",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Maintainer",
-					"text": "Sa3odka",
+					"text": "MAINTAINER",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Contact Developer",
-					"action": "sa3odka@hotmail.com",
+					"action": "mailto:EMAIL",
 					"class": "DepictionTableButtonView"
 				},
 				{
 					"title": "Contact Maintainer",
-					"action": "sa3odka@hotmail.com",
+					"action": "mailto:EMAIL",
 					"class": "DepictionTableButtonView"
 				},
 				{
@@ -74,18 +78,13 @@
 			"tabname": "Changelog",
 			"views": [
 				{
-					"title": "1.7.1",
+					"title": "VERSION",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 Update SnapBreak to SnapChat Plus",
-					"useSpacing": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"markdown": "\t\n\u2022 Update SnapBreak to SnapChat Plus",
+					"markdown": "\t\n\u2022 CHANGES",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				}

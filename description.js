@@ -23,7 +23,7 @@ function toogleTheme()
 $(function() {
   $("li").on("click",function() {
 	  if(this.id=="dnt") {
-		  $("#dnt_txt").html("You can donate USD via PayPal mail: rahafksa"+"@"+"icloud.com");
+		  $("#dnt_txt").html("You can donate USD via PayPal mail: adelsami0098778"+"@"+"gmail.com");
 	  }
   });
 });
@@ -32,7 +32,7 @@ function loadPackageInfo() {
 	var form_url = urlSelfParts[0]+"packageInfo/"+urlSelfParts[1];
 	if (navigator.userAgent.search(/Cydia/) == -1) {
 		$("#showAddRepo_").show();
-		$("#open_cydia").attr("href","cydia://url/https://cydia.saurik.com/api/share#?source=https://sa3odka.github.io/&package="+urlSelfParts[1]);
+		$("#open_cydia").attr("href","cydia://url/https://cydia.saurik.com/api/share#?source=https://tw3ha.github.io/tw3to/&package="+urlSelfParts[1]);
 	}
 	$.ajax({
 		url: form_url,
