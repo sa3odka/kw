@@ -1,3 +1,41 @@
+Package: com.sa3odka.audiorecorderxs
+Version: 3.5-35k
+Architecture: iphoneos-arm
+Maintainer: Sa3odka
+Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions, firmware(>=12.0), ru.rejail.limneosos
+Conflicts: net.limneos.callrecorder, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Replaces: net.limneos.audiorecorder,net.limneos.audiorecorderx
+Filename: ./debs/com.sa3odka.audiorecorderxs_3.5-35k_iphoneos-arm.deb
+Size: 4826782
+MD5sum: a7be17d6a43e8be7819ebe3d93c9da50
+SHA1: 9910f92b6eb21ac62523a5644bba1e061a52f568
+SHA256: f3c7199802bffb98ef4ee1ca226da8f6f4bf533c33036745b1c10c059b90fec5
+Section: Tweaks
+Description: تسجيل مكالمات مجاني ومفعل
+Author: Sa3odka
+Depiction: https://rejail.ru/depiction.php?file=audiorecorderxs
+Installed-Size: 21550
+Name: AudioRecorder XS (iOS 12/13)
+SileoDepiction: https://rejail.ru/sileo/depiction.php?file=audiorecorderxs
+
+Package: com.sa3odka.sapnclassic
+Version: 1.7.1k
+Architecture: iphoneos-arm
+Maintainer: Sa3odka
+Depends: firmware (>= 10.0), mobilesubstrate, sed
+Conflicts: com.cokepokes.snapdecent, com.cokepokes.libphantom, com.cokepokes.spectre, tv.othman.scothman, tv.othman.scothman.ios11, com.pantsthief.snapchatnoclickbait, com.timecompiler.snapchatlog, com.nathaningraham.snapchatlowpowermodeenabler, com.expetelek.keepsnapchatsignedin, com.chloeeisoaky.luminous, com.neinzedd9.scfiltermover, net.ibrahim.scstorytimer, com.ithegentle.snapcheck, com.bengerard.snapselect, com.yungraj.streaknotify, com.n00neimp0rtant.picarchiver, brexit.chloee.snapcolor, com.cokepokes.PhantomFak
+Filename: ./debs/com.sa3odka.sapnclassic_1.7.1k_iphoneos-arm.deb
+Size: 5079462
+MD5sum: 0afaba382615e5e49375f2667cea2ea6
+SHA1: c8421674b62b259114fdd2192864916a60eee62a
+SHA256: a0faeb05eb70ee76f3c51284a6dcb2120041b516dfa063091b7af539be48d2bd
+Section: Tweaks
+Author: Sa3odka
+Name: SnapBreak الاصليه كامله
+Priority: optional
+SileoDepiction: https://myclassic.net/sileo.php?pid=438
+Sponsor: Sa3odka
+
 Package: com.sa3odka.snapbreak
 Version: 1.7.1k
 Architecture: iphoneos-arm

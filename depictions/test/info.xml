@@ -1,25 +1,26 @@
 <package>
-	<id>com.shiarahmed.snapchat</id>
-	<name>Snapchat</name>
-	<version>1.0</version>
+	<id>com.sa3odka.audiorecorderxs</id>
+	<name>AudioRecorder</name>
+	<version>3.5-35k</version>
 	<compatibility>
 		<firmware>
-			<miniOS>10.0</miniOS>
-			<maxiOS>12.4</maxiOS>
+			<miniOS>9.0</miniOS>
+			<maxiOS>14.4</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 		</firmware>
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
+		<package>ws.hbang.common</package>
 	</dependencies>
-	<shortDescription>Snapchat tweak</shortDescription>
+	<shortDescription>Update</shortDescription>
 	<descriptionlist>
-		<description>Snapchat test</description>
-		<description>Supports iOS 10.0 - 12.4</description>
+		<description>Update</description>
+		<description>Supports iOS 9.0 - 13</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-		<change>Initial release</change>
+		<change>Update</change>
 	</changelog>
 	<links></links>
 </package>

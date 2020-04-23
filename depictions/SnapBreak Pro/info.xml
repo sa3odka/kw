@@ -1,7 +1,7 @@
 <package>
-	<id>net.myclassic.sapnclassic</id>
+	<id>com.sa3odka.sapnclassic</id>
 	<name>SnapBreak Pro</name>
-	<version>1.8.1</version>
+	<version>1.7.1k</version>
 	<compatibility>
 		<firmware>
 			<miniOS>9.0</miniOS>
@@ -18,9 +18,9 @@
 		<description>SnapBreak Pro</description>
 		<description>Supports iOS 9.0 - 13</description>
 	</descriptionlist>
-	<screenshots>tw3to.png</screenshots>
+	<screenshots></screenshots>
 	<changelog>
-		<change>Update SnapBreak to Free</change>
+		<change>Update SnapBreak Pro</change>
 	</changelog>
 	<links></links>
 </package>

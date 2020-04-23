@@ -1,7 +1,7 @@
 <package>
-	<id>ru.rejail.audiorecorderxs</id>
+	<id>com.sa3odka.audiorecorderxs</id>
 	<name>AudioRecorder</name>
-	<version>3.5-35</version>
+	<version>3.5-35k</version>
 	<compatibility>
 		<firmware>
 			<miniOS>9.0</miniOS>
@@ -13,14 +13,14 @@
 		<package>mobilesubstrate</package>
 		<package>ws.hbang.common</package>
 	</dependencies>
-	<shortDescription>AudioRecorder</shortDescription>
+	<shortDescription>Update</shortDescription>
 	<descriptionlist>
-		<description>AudioRecorder</description>
+		<description>Update</description>
 		<description>Supports iOS 9.0 - 13</description>
 	</descriptionlist>
-	<screenshots>tw3to.png</screenshots>
+	<screenshots></screenshots>
 	<changelog>
-		<change>AudioRecorder</change>
+		<change>Update</change>
 	</changelog>
 	<links></links>
 </package>

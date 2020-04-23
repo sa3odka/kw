@@ -1,1 +1,1 @@
-# sa3odka.github.io/kw/
+# sa3odka.github.io
