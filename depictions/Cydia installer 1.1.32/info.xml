@@ -1,5 +1,5 @@
 <package>
-	<id>com.sa3odka.cydia</id>
+	<id>cydia</id>
 	<name>Cydia installer 1.1.32</name>
 	<version>1.1.32</version>
 	<compatibility>
