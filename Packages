@@ -22,7 +22,7 @@ Package: com.sa3odka.BioProtectxs
 Version: 3.1
 Architecture: iphoneos-arm
 Maintainer: bo7ios <bo7.naif@gmail.com>
-Depends:
+Depends: 
 Filename: ./debs/com.sa3odka.BioProtectxs_3.1_iphoneos-arm.deb
 Size: 4632
 MD5sum: 37ba538b7b9709cd525f9130c96e928a
@@ -46,7 +46,7 @@ MD5sum: c467379c1c9cf4d029b9374608e8d91a
 SHA1: ac55d308dd2a8fae85fac9dea640745418a6f4bd
 SHA256: a46a8c189e50e284f6880fce0f2076da01bd8f8ec998196a3f1b78b0c976c52f
 Section: Tweaks
-Description: اداة البصمة للجهاز والتطبيقات
+Description: اداة البصمة للجهاز والتطبيقات 
 Author: Elias Limneos <limneoselias@gmail.com>
 Depiction: https://rejail.ru/depiction.php?file=bioprotectxs
 Icon: file:///Library/PreferenceBundles/BioProtectPrefs.bundle/BioProtect.png
@@ -77,7 +77,7 @@ Package: com.sa3odka.Choicy
 Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: bo7ios <bo7.naif@gmail.com>
-Depends:
+Depends: 
 Filename: ./debs/com.sa3odka.Choicy_1.1_iphoneos-arm.deb
 Size: 2262
 MD5sum: 16aed68629ee873c1b9012802b23368d
@@ -86,7 +86,7 @@ SHA256: 7c49b42a56c0bdd0b6b8a0a9fde77a48f33e38706fb4b86d01891e7ef757017c
 Section: Addons
 Description: تعريب اداة Choicy
 Author: bo7ios <bo7.naif@gmail.com>
-Name: تعريب Choicy
+Name: تعريب Choicy 
 dev: bo7ios
 
 Package: com.sa3odka.choicy
@@ -159,7 +159,7 @@ MD5sum: 296079d86bb2b29d671017580c19e137
 SHA1: 0a45f6db51170d8ee69f4a8e68bd1d6270c6a3fb
 SHA256: 8505d0a8a60d0c31ea7cf65458559027e7b548a0c2ac185607807c40ee70fc56
 Section: Tweaks
-Description: افضل السورسات موجوده بالاداة
+Description: افضل السورسات موجوده بالاداة 
 Author: Sa3odka
 Installed-Size: 1372
 Name: SourcePlus
@@ -178,4 +178,5 @@ Section: Tweaks
 Description: اداة فيها الكثير من المميزات حذف اعلانات حذف اشعار الشحن تكريك بعض البرامج استمتع
 Author: Sa3odka
 Installed-Size: 3904
-Name: Tw3ha
+Name: Pro
+
