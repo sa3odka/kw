@@ -1,7 +1,7 @@
 <package>
 	<id>com.sa3odka.BioProtectxs</id>
 	<name>BioProtect</name>
-	<version>0.1k</version>
+	<version>4.4-3+debugk</version>
 	<compatibility>
 		<firmware>
 			<miniOS>9.0</miniOS>

@@ -14,7 +14,7 @@
         },
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "SnapBreak Crack Tweak for Sa3odka"
+					"markdown": "update Tweak for Sa3odka"
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -25,7 +25,7 @@
 				},
 				{
 					"title": "Version",
-					"text": "0.1k",
+					"text": "1.1",
 					"class": "DepictionTableTextView"
 				},
 
@@ -74,7 +74,7 @@
 			"tabname": "Changelog",
 			"views": [
 				{
-					"title": "0.1k",
+					"title": "1.1",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"

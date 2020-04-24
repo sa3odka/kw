@@ -19,15 +19,15 @@ Name: AudioRecorder XS (iOS 12/13)
 SileoDepiction: https://rejail.ru/sileo/depiction.php?file=audiorecorderxs
 
 Package: com.sa3odka.BioProtectxs
-Version: 0.1k
+Version: 3.1
 Architecture: iphoneos-arm
 Maintainer: bo7ios <bo7.naif@gmail.com>
 Depends: 
-Filename: ./debs/com.sa3odka.BioProtectxs_0.1k_iphoneos-arm.deb
-Size: 4636
-MD5sum: 213c99453cfa6971cf652d46da69196f
-SHA1: 8c89962c4c736fe11b6626bf96806b98f8908bd0
-SHA256: d98728a3d59bde2b8cb35c46ffe8317b9ee09d05d963268fced3d40623281f2c
+Filename: ./debs/com.sa3odka.BioProtectxs_3.1_iphoneos-arm.deb
+Size: 4632
+MD5sum: 37ba538b7b9709cd525f9130c96e928a
+SHA1: 7085fbf21c04084d98a09143a470c80f603abaa2
+SHA256: c171196ee957b37ee3c0bcc1754910a748dd0dcc0faf4cb9a8ea317f31407e13
 Section: Addons
 Description: تعريب اداة BioProtectxs
 Author: bo7ios <bo7.naif@gmail.com>
@@ -74,15 +74,15 @@ Name: No
 SileoDepiction: https://idevicehacked.com/depictions/com.smokin1337.blurification/Blurification
 
 Package: com.sa3odka.Choicy
-Version: 0.1k
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: bo7ios <bo7.naif@gmail.com>
 Depends: 
-Filename: ./debs/com.sa3odka.Choicy_0.1k_iphoneos-arm.deb
+Filename: ./debs/com.sa3odka.Choicy_1.1_iphoneos-arm.deb
 Size: 2262
-MD5sum: 4b165e84f784544c6e8fa6ceca5e5f43
-SHA1: 4e267903c773ec137bfccd94c73c85b3c2364eb9
-SHA256: e91218a462d7fb2a3a7e929042d9009ac4bf95b59d26f733813d8ae596acf128
+MD5sum: 16aed68629ee873c1b9012802b23368d
+SHA1: 814761f3934a5fa446879f55f4b94f4ce708680d
+SHA256: 7c49b42a56c0bdd0b6b8a0a9fde77a48f33e38706fb4b86d01891e7ef757017c
 Section: Addons
 Description: تعريب اداة Choicy
 Author: bo7ios <bo7.naif@gmail.com>
