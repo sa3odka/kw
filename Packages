@@ -14,6 +14,26 @@ Description: Safely disable some executables/daemons.
 Author: dpkg_
 Name: Cappd
 
+Package: com.sa3odka.atweakdisabler
+Version: 1.0.3k
+Architecture: iphoneos-arm
+Maintainer: S0me1ne <contact@snapbreak.app>
+Depends: firmware (>= 10.0), mobilesubstrate, fr.s0me1ne.snapbreak
+Filename: ./debs/com.sa3odka.atweakdisabler_1.0.3k_iphoneos-arm.deb
+Size: 4914
+MD5sum: 68a25900b3c437f28b002cdf71b6ca95
+SHA1: 3750921a2a0af054607064544e498c021cce58b4
+SHA256: 37102694121a7d799bbbf5f9dd2a572b7ffe7f9fd9624d8ece1155414241338a
+Section: System
+Description: Only load SnapBreak inside Snapchat. Disable all other tweaks. You need to have bought SnapBreak. (You do not need to install it manually because it will automatically install as a dependency of SnapBreak).
+Author: S0me1ne <contact@snapbreak.app>
+Homepage: https://snapbreak.app
+Installed-Size: 136
+Name: ATweakDisabler
+Priority: optional
+Tag: cydia::commercial
+dev: S0me1ne <contact@snapbreak.app>
+
 Package: com.sa3odka.audiorecorderxs
 Version: 3.5-35k
 Architecture: iphoneos-arm
@@ -227,4 +247,21 @@ Description: اداة فيها الكثير من المميزات حذف اعل�
 Author: Sa3odka
 Installed-Size: 3904
 Name: Pro
+
+Package: com.sa3odka.zeppelin7packios7
+Version: 2.4k
+Architecture: iphoneos-arm
+Maintainer: iC <apt@macciti.com>
+Depends: com.alexzielenski.zeppelin
+Filename: ./debs/com.sa3odka.zeppelin7packios7_2.4k_iphoneos-arm.deb
+Size: 2657700
+MD5sum: 5b74a29a81177d86c76687f107a0d834
+SHA1: ce560aa778d494ebb57cc1da7e09425c82b1ba8b
+SHA256: 2a21ae149db45957bdbdfafd69117c2b188a63ae6f500f8a757d6a90b0be8bc7
+Section: Addons (Zeppelin)
+Description: 70 ايقونة لاداة Zeppelin
+Author: Antonio <antoniocaldieri@icloud.com>
+Depiction: http://www.macciti.com/pages/zeppelin7packios7/index.php
+Name: Zeppelin 7Pack iOS 7
+tag: cydia::commercial
 
