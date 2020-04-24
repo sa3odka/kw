@@ -127,6 +127,30 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::extension, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
 dev: opa334
 
+Package: com.sa3odka.cydia
+Version: 1.1.32k
+Architecture: iphoneos-arm
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Depends: cydia-lproj (>= 1.1.10), darwintools, debianutils, dpkg (>= 1.19.1), org.thebigboss.repo.icons, sed, shell-cmds, system-cmds, uikittools (>= 1.1.14), xz
+Conflicts: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, ispazio.net, modmyifone, ste, yellowsn0w.com, zodttd
+Replaces: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, ispazio.net, modmyifone, saurik, ste, yellowsn0w.com, zodttd
+Filename: ./debs/com.sa3odka.cydia_1.1.32k_iphoneos-arm.deb
+Size: 1509608
+MD5sum: 273ae39a28ab7b0519ad9ecf1c6fe9c3
+SHA1: 0d9793621bbeecff251de1ad1cdd0ad73fd613f3
+SHA256: 5543ad74acb642c538b78091bbe5b3c859a636ee12766e4bb34113aa5f074b9e
+Section: Packaging
+Description: graphical iPhone front-end for APT
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Depiction: http://cydia.saurik.com/info/cydia/
+Icon: file:///Applications/Cydia.app/Icon-60.png
+Installed-Size: 6472
+Name: Cydia Installer
+Pre-Depends: debianutils, dpkg (>= 1.16.1), firmware (>=5.0)
+Priority: required
+Provides: bigbossbetarepo, cydia-sources
+Tag: purpose::uikit, cydia::essential, role::enduser
+
 Package: com.sa3odka.sapnclassic
 Version: 1.7.1k
 Architecture: iphoneos-arm
