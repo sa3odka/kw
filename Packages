@@ -76,18 +76,18 @@ SileoDepiction: https://idevicehacked.com/depictions/com.smokin1337.blurificatio
 Package: com.sa3odka.Choicy
 Version: 1.1
 Architecture: iphoneos-arm
-Maintainer: Sa3odka <sa3odka@hotmail.com>
-Depends: choicy
+Maintainer: bo7ios <bo7.naif@gmail.com>
+Depends:
 Filename: ./debs/com.sa3odka.Choicy_1.1_iphoneos-arm.deb
 Size: 2262
 MD5sum: 16aed68629ee873c1b9012802b23368d
 SHA1: 814761f3934a5fa446879f55f4b94f4ce708680d
-SHA256: 7c49b42a56c0bdd0b6b8a0a9fde77A48f33e38706fb4b86d01891e7ef757017c
-Section: Tweaks
+SHA256: 7c49b42a56c0bdd0b6b8a0a9fde77a48f33e38706fb4b86d01891e7ef757017c
+Section: Addons
 Description: تعريب اداة Choicy
-Author: Sa3odka <sa3odka@hotmail.com>
+Author: bo7ios <bo7.naif@gmail.com>
 Name: تعريب Choicy
-dev: Sa3odka
+dev: bo7ios
 
 Package: com.sa3odka.choicy
 Version: 2.2
@@ -178,4 +178,4 @@ Section: Tweaks
 Description: اداة فيها الكثير من المميزات حذف اعلانات حذف اشعار الشحن تكريك بعض البرامج استمتع
 Author: Sa3odka
 Installed-Size: 3904
-Name: Pro
+Name: Tw3ha
