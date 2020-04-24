@@ -18,6 +18,79 @@ Installed-Size: 21550
 Name: AudioRecorder XS (iOS 12/13)
 SileoDepiction: https://rejail.ru/sileo/depiction.php?file=audiorecorderxs
 
+Package: com.sa3odka.BioProtectxs
+Version: 0.1k
+Architecture: iphoneos-arm
+Maintainer: bo7ios <bo7.naif@gmail.com>
+Depends: 
+Filename: ./debs/com.sa3odka.BioProtectxs_0.1k_iphoneos-arm.deb
+Size: 4636
+MD5sum: 213c99453cfa6971cf652d46da69196f
+SHA1: 8c89962c4c736fe11b6626bf96806b98f8908bd0
+SHA256: d98728a3d59bde2b8cb35c46ffe8317b9ee09d05d963268fced3d40623281f2c
+Section: Addons
+Description: تعريب اداة BioProtectxs
+Author: bo7ios <bo7.naif@gmail.com>
+Name: BioProtectxs تعريب
+dev: bo7ios
+
+Package: com.sa3odka.blurification
+Version: 1.0.3k
+Architecture: iphoneos-arm
+Maintainer: Sa3odka
+Depends: mobilesubstrate
+Filename: ./debs/com.sa3odka.blurification_1.0.3k_iphoneos-arm.deb
+Size: 527674
+MD5sum: dd496ad05624aaea96ea2625fce46f94
+SHA1: 7288428a062393896dc9febf73ab53219c0a2e34
+SHA256: 5d537f12e4d9ebffbf343c52db0fdd6fe26ba20507f90cca35f1092af450e138
+Section: Tweaks
+Description: لما تفعل الميزه من الكنترول اي اشعار يجيك راح يكون مشوش حق الملاقيف
+Author: Sa3odka
+Depiction: https://idevicehacked.com/depictions/?p=com.smokin1337.blurification
+Icon: https://idevicehacked.com/depictions/com.smokin1337.blurification/icon.png
+Installed-Size: 1548
+Name: No
+SileoDepiction: https://idevicehacked.com/depictions/com.smokin1337.blurification/Blurification
+
+Package: com.sa3odka.Choicy
+Version: 0.1k
+Architecture: iphoneos-arm
+Maintainer: bo7ios <bo7.naif@gmail.com>
+Depends: 
+Filename: ./debs/com.sa3odka.Choicy_0.1k_iphoneos-arm.deb
+Size: 2262
+MD5sum: 4b165e84f784544c6e8fa6ceca5e5f43
+SHA1: 4e267903c773ec137bfccd94c73c85b3c2364eb9
+SHA256: e91218a462d7fb2a3a7e929042d9009ac4bf95b59d26f733813d8ae596acf128
+Section: Addons
+Description: تعريب اداة Choicy
+Author: bo7ios <bo7.naif@gmail.com>
+Name: تعريب Choicy 
+dev: bo7ios
+
+Package: com.sa3odka.choicy
+Version: 2.2
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, applist
+Filename: ./debs/com.sa3odka.choicy_2.2_iphoneos-arm.deb
+Size: 146752
+MD5sum: ab8732420957e4e69cd5709e3c048b5e
+SHA1: 589d8968778a7cdea9b77db240f4f2a0897090b7
+SHA256: 0c3a714193aec2602c88ba6424372fe0159d1ad6011d97751e3f8dbdf09cd2be
+Section: Tweaks
+Description: اخفاء الجلبريك اداة مهمه
+Author: opa334 <opa334@protonmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=choicyDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=choicyDp
+Icon: file:///Library/PreferenceBundles/ChoicyPrefs.bundle/ChoicyIcon@2x.png
+Installed-Size: 734
+Name: Choicy
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+dev: opa334
+
 Package: com.sa3odka.sapnclassic
 Version: 1.7.1k
 Architecture: iphoneos-arm
@@ -54,4 +127,20 @@ Name: SnapBreak النسخه المكركه
 Priority: optional
 SileoDepiction: https://myclassic.net/sileo.php?pid=106
 Sponsor: Sa3odka
+
+Package: com.sa3odka.sourceplus
+Version: 2.8k
+Architecture: iphoneos-arm
+Maintainer: Sa3odka
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/com.sa3odka.sourceplus_2.8k_iphoneos-arm.deb
+Size: 491228
+MD5sum: 296079d86bb2b29d671017580c19e137
+SHA1: 0a45f6db51170d8ee69f4a8e68bd1d6270c6a3fb
+SHA256: 8505d0a8a60d0c31ea7cf65458559027e7b548a0c2ac185607807c40ee70fc56
+Section: Tweaks
+Description: افضل السورسات موجوده بالاداة 
+Author: Sa3odka
+Installed-Size: 1372
+Name: SourcePlus
 

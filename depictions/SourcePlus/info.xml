@@ -1,0 +1,26 @@
+<package>
+	<id>com.sa3odka.sourceplus</id>
+	<name>SourcePlus</name>
+	<version>2.8k</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.0</miniOS>
+			<maxiOS>14.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>ws.hbang.common</package>
+	</dependencies>
+	<shortDescription>Update</shortDescription>
+	<descriptionlist>
+		<description>Update</description>
+		<description>Supports iOS 9.0 - 13</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Update</change>
+	</changelog>
+	<links></links>
+</package>
