@@ -1,1 +1,181 @@
-﻿
+Package: com.sa3odka.audiorecorderxs
+Version: 3.5-35k
+Architecture: iphoneos-arm
+Maintainer: Sa3odka
+Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions, firmware(>=12.0), ru.rejail.limneosos
+Conflicts: net.limneos.callrecorder, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Replaces: net.limneos.audiorecorder,net.limneos.audiorecorderx
+Filename: ./debs/com.sa3odka.audiorecorderxs_3.5-35k_iphoneos-arm.deb
+Size: 4826782
+MD5sum: a7be17d6a43e8be7819ebe3d93c9da50
+SHA1: 9910f92b6eb21ac62523a5644bba1e061a52f568
+SHA256: f3c7199802bffb98ef4ee1ca226da8f6f4bf533c33036745b1c10c059b90fec5
+Section: Tweaks
+Description: تسجيل مكالمات مجاني ومفعل
+Author: Sa3odka
+Depiction: https://rejail.ru/depiction.php?file=audiorecorderxs
+Installed-Size: 21550
+Name: AudioRecorder XS (iOS 12/13)
+SileoDepiction: https://rejail.ru/sileo/depiction.php?file=audiorecorderxs
+
+Package: com.sa3odka.BioProtectxs
+Version: 3.1
+Architecture: iphoneos-arm
+Maintainer: bo7ios <bo7.naif@gmail.com>
+Depends:
+Filename: ./debs/com.sa3odka.BioProtectxs_3.1_iphoneos-arm.deb
+Size: 4632
+MD5sum: 37ba538b7b9709cd525f9130c96e928a
+SHA1: 7085fbf21c04084d98a09143a470c80f603abaa2
+SHA256: c171196ee957b37ee3c0bcc1754910a748dd0dcc0faf4cb9a8ea317f31407e13
+Section: Addons
+Description: تعريب اداة BioProtectxs
+Author: bo7ios <bo7.naif@gmail.com>
+Name: BioProtectxs تعريب
+dev: bo7ios
+
+Package: com.sa3odka.bioprotectxs
+Version: 4.4-3+debugk
+Architecture: iphoneos-arm
+Maintainer: ReJail <rejail@rejail.ru>
+Depends: mobilesubstrate, preferenceloader, ru.rejail.limneosos
+Conflicts: net.limneos.bioprotect, net.limneos.bioprotectx, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Filename: ./debs/com.sa3odka.bioprotectxs_4.4-3+debugk_iphoneos-arm.deb
+Size: 1087108
+MD5sum: c467379c1c9cf4d029b9374608e8d91a
+SHA1: ac55d308dd2a8fae85fac9dea640745418a6f4bd
+SHA256: a46a8c189e50e284f6880fce0f2076da01bd8f8ec998196a3f1b78b0c976c52f
+Section: Tweaks
+Description: اداة البصمة للجهاز والتطبيقات
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: https://rejail.ru/depiction.php?file=bioprotectxs
+Icon: file:///Library/PreferenceBundles/BioProtectPrefs.bundle/BioProtect.png
+Installed-Size: 3276
+Name: BioProtect XS (iOS 12/13)
+SileoDepiction: https://rejail.ru/sileo/depiction.php?file=bioprotectxs
+
+Package: com.sa3odka.blurification
+Version: 1.0.3k
+Architecture: iphoneos-arm
+Maintainer: Sa3odka
+Depends: mobilesubstrate
+Filename: ./debs/com.sa3odka.blurification_1.0.3k_iphoneos-arm.deb
+Size: 527674
+MD5sum: dd496ad05624aaea96ea2625fce46f94
+SHA1: 7288428a062393896dc9febf73ab53219c0a2e34
+SHA256: 5d537f12e4d9ebffbf343c52db0fdd6fe26ba20507f90cca35f1092af450e138
+Section: Tweaks
+Description: لما تفعل الميزه من الكنترول اي اشعار يجيك راح يكون مشوش حق الملاقيف
+Author: Sa3odka
+Depiction: https://idevicehacked.com/depictions/?p=com.smokin1337.blurification
+Icon: https://idevicehacked.com/depictions/com.smokin1337.blurification/icon.png
+Installed-Size: 1548
+Name: No
+SileoDepiction: https://idevicehacked.com/depictions/com.smokin1337.blurification/Blurification
+
+Package: com.sa3odka.Choicy
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: bo7ios <bo7.naif@gmail.com>
+Depends:
+Filename: ./debs/com.sa3odka.Choicy_1.1_iphoneos-arm.deb
+Size: 2262
+MD5sum: 16aed68629ee873c1b9012802b23368d
+SHA1: 814761f3934a5fa446879f55f4b94f4ce708680d
+SHA256: 7c49b42a56c0bdd0b6b8a0a9fde77a48f33e38706fb4b86d01891e7ef757017c
+Section: Addons
+Description: تعريب اداة Choicy
+Author: bo7ios <bo7.naif@gmail.com>
+Name: تعريب Choicy
+dev: bo7ios
+
+Package: com.sa3odka.choicy
+Version: 2.2
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, applist
+Filename: ./debs/com.sa3odka.choicy_2.2_iphoneos-arm.deb
+Size: 146752
+MD5sum: ab8732420957e4e69cd5709e3c048b5e
+SHA1: 589d8968778a7cdea9b77db240f4f2a0897090b7
+SHA256: 0c3a714193aec2602c88ba6424372fe0159d1ad6011d97751e3f8dbdf09cd2be
+Section: Tweaks
+Description: اخفاء الجلبريك اداة مهمه
+Author: opa334 <opa334@protonmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=choicyDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=choicyDp
+Icon: file:///Library/PreferenceBundles/ChoicyPrefs.bundle/ChoicyIcon@2x.png
+Installed-Size: 734
+Name: Choicy
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+dev: opa334
+
+Package: com.sa3odka.sapnclassic
+Version: 1.7.1k
+Architecture: iphoneos-arm
+Maintainer: Sa3odka
+Depends: firmware (>= 10.0), mobilesubstrate, sed
+Conflicts: com.cokepokes.snapdecent, com.cokepokes.libphantom, com.cokepokes.spectre, tv.othman.scothman, tv.othman.scothman.ios11, com.pantsthief.snapchatnoclickbait, com.timecompiler.snapchatlog, com.nathaningraham.snapchatlowpowermodeenabler, com.expetelek.keepsnapchatsignedin, com.chloeeisoaky.luminous, com.neinzedd9.scfiltermover, net.ibrahim.scstorytimer, com.ithegentle.snapcheck, com.bengerard.snapselect, com.yungraj.streaknotify, com.n00neimp0rtant.picarchiver, brexit.chloee.snapcolor, com.cokepokes.PhantomFak
+Filename: ./debs/com.sa3odka.sapnclassic_1.7.1k_iphoneos-arm.deb
+Size: 5079462
+MD5sum: 0afaba382615e5e49375f2667cea2ea6
+SHA1: c8421674b62b259114fdd2192864916a60eee62a
+SHA256: a0faeb05eb70ee76f3c51284a6dcb2120041b516dfa063091b7af539be48d2bd
+Section: Tweaks
+Author: Sa3odka
+Name: SnapBreak الاصليه كامله
+Priority: optional
+SileoDepiction: https://myclassic.net/sileo.php?pid=438
+Sponsor: Sa3odka
+
+Package: com.sa3odka.snapbreak
+Version: 1.7.1k
+Architecture: iphoneos-arm
+Maintainer: Sa3odka
+Depends: firmware (>= 10.0), mobilesubstrate, sed
+Conflicts: com.cokepokes.snapdecent, com.cokepokes.libphantom, com.cokepokes.spectre, tv.othman.scothman, tv.othman.scothman.ios11, com.s0me1ne.betaatweakdisabler, fr.s0me1ne.betasnapbreak, com.s0me1ne.atweakdisabler, fr.s0me1ne.snapbreak
+Filename: ./debs/com.sa3odka.snapbreak_1.7.1k_iphoneos-arm.deb
+Size: 6465132
+MD5sum: a3fd73474e9af5a7d0795f5b15ba8fbf
+SHA1: 0bb8a9771c69affc3f8eecb49f0fdba5943688f8
+SHA256: 84cd983c6d120ee3b775b96d48edf9a682c22731770aef1ddbbabf1d1f1259ec
+Section: Tweaks
+Author: Sa3odka
+Icon: https://plus.3z43.com/wp-content/uploads/2020/02/admin-ajax.php_-1.png
+Name: SnapBreak النسخه المكركه
+Priority: optional
+SileoDepiction: https://myclassic.net/sileo.php?pid=106
+Sponsor: Sa3odka
+
+Package: com.sa3odka.sourceplus
+Version: 2.8k
+Architecture: iphoneos-arm
+Maintainer: Sa3odka
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/com.sa3odka.sourceplus_2.8k_iphoneos-arm.deb
+Size: 491228
+MD5sum: 296079d86bb2b29d671017580c19e137
+SHA1: 0a45f6db51170d8ee69f4a8e68bd1d6270c6a3fb
+SHA256: 8505d0a8a60d0c31ea7cf65458559027e7b548a0c2ac185607807c40ee70fc56
+Section: Tweaks
+Description: افضل السورسات موجوده بالاداة
+Author: Sa3odka
+Installed-Size: 1372
+Name: SourcePlus
+
+Package: com.sa3odka.tw3ha
+Version: 6.0k
+Architecture: iphoneos-arm
+Maintainer: Sa3odka
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/com.sa3odka.tw3ha_6.0k_iphoneos-arm.deb
+Size: 1104438
+MD5sum: b76430a43b36c62d6e5a46497cdb47b1
+SHA1: 6232f8765d9e1b6fd14e07338df51e07ea544b08
+SHA256: 1dc0dc84d774282b3fe9b32f247145cb400d4a8afaf6ea4819d50c67e99ec4fa
+Section: Tweaks
+Description: اداة فيها الكثير من المميزات حذف اعلانات حذف اشعار الشحن تكريك بعض البرامج استمتع
+Author: Sa3odka
+Installed-Size: 3904
+Name: Pro
