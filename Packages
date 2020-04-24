@@ -17,22 +17,22 @@ Name: Cappd
 Package: com.sa3odka.atweakdisabler
 Version: 1.0.3k
 Architecture: iphoneos-arm
-Maintainer: S0me1ne <contact@snapbreak.app>
-Depends: firmware (>= 10.0), mobilesubstrate, fr.s0me1ne.snapbreak
+Maintainer: Sa3odka <sa3odka@hotmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate
 Filename: ./debs/com.sa3odka.atweakdisabler_1.0.3k_iphoneos-arm.deb
-Size: 4914
-MD5sum: 68a25900b3c437f28b002cdf71b6ca95
-SHA1: 3750921a2a0af054607064544e498c021cce58b4
-SHA256: 37102694121a7d799bbbf5f9dd2a572b7ffe7f9fd9624d8ece1155414241338a
-Section: System
+Size: 4908
+MD5sum: 82637825230e4fa1640cabd50b01126f
+SHA1: 78642923b0847907e6c7f366223b117349b55d24
+SHA256: b86f3113b2a6895d0d48eea35c83abeba6cc689a3951895a47ad6df6c9b324c3
+Section: Tweak
 Description: Only load SnapBreak inside Snapchat. Disable all other tweaks. You need to have bought SnapBreak. (You do not need to install it manually because it will automatically install as a dependency of SnapBreak).
-Author: S0me1ne <contact@snapbreak.app>
-Homepage: https://snapbreak.app
+Author: Sa3odka <sa3odka@hotmail.com>
+Homepage: https://sa3odka.github.io/kw/
 Installed-Size: 136
 Name: ATweakDisabler
 Priority: optional
 Tag: cydia::commercial
-dev: S0me1ne <contact@snapbreak.app>
+dev: Sa3odka <sa3odka@hotmail.com>
 
 Package: com.sa3odka.audiorecorderxs
 Version: 3.5-35k
