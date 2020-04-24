@@ -128,17 +128,17 @@ Tag: purpose::extension, compatible::ios10, compatible::ios11, compatible::ios12
 dev: opa334
 
 Package: com.sa3odka.cydia
-Version: 1.1.32k
+Version: 1.1.32
 Architecture: iphoneos-arm
 Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
 Depends: cydia-lproj (>= 1.1.10), darwintools, debianutils, dpkg (>= 1.19.1), org.thebigboss.repo.icons, sed, shell-cmds, system-cmds, uikittools (>= 1.1.14), xz
 Conflicts: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, ispazio.net, modmyifone, ste, yellowsn0w.com, zodttd
 Replaces: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, ispazio.net, modmyifone, saurik, ste, yellowsn0w.com, zodttd
-Filename: ./debs/com.sa3odka.cydia_1.1.32k_iphoneos-arm.deb
-Size: 1509608
-MD5sum: 273ae39a28ab7b0519ad9ecf1c6fe9c3
-SHA1: 0d9793621bbeecff251de1ad1cdd0ad73fd613f3
-SHA256: 5543ad74acb642c538b78091bbe5b3c859a636ee12766e4bb34113aa5f074b9e
+Filename: ./debs/com.sa3odka.cydia_1.1.32_iphoneos-arm.deb
+Size: 1509602
+MD5sum: 65a54e9852c5e8a2a95ed264896e11d3
+SHA1: bcc410b2526c0e6cb6063089360cb40f3f0a81b3
+SHA256: 34c2a8d2efd61b3aa4e744a5743d0a299e42557fde215028f319b9d9efe86c17
 Section: Packaging
 Description: graphical iPhone front-end for APT
 Author: Jay Freeman (saurik) <saurik@saurik.com>
