@@ -34,6 +34,26 @@ Author: bo7ios <bo7.naif@gmail.com>
 Name: BioProtectxs تعريب
 dev: bo7ios
 
+Package: com.sa3odka.bioprotectxs
+Version: 4.4-3+debugk
+Architecture: iphoneos-arm
+Maintainer: ReJail <rejail@rejail.ru>
+Depends: mobilesubstrate, preferenceloader, ru.rejail.limneosos
+Conflicts: net.limneos.bioprotect, net.limneos.bioprotectx, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Filename: ./debs/com.sa3odka.bioprotectxs_4.4-3+debugk_iphoneos-arm.deb
+Size: 1087108
+MD5sum: c467379c1c9cf4d029b9374608e8d91a
+SHA1: ac55d308dd2a8fae85fac9dea640745418a6f4bd
+SHA256: a46a8c189e50e284f6880fce0f2076da01bd8f8ec998196a3f1b78b0c976c52f
+Section: Tweaks
+Description: اداة البصمة للجهاز والتطبيقات 
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: https://rejail.ru/depiction.php?file=bioprotectxs
+Icon: file:///Library/PreferenceBundles/BioProtectPrefs.bundle/BioProtect.png
+Installed-Size: 3276
+Name: BioProtect XS (iOS 12/13)
+SileoDepiction: https://rejail.ru/sileo/depiction.php?file=bioprotectxs
+
 Package: com.sa3odka.blurification
 Version: 1.0.3k
 Architecture: iphoneos-arm
